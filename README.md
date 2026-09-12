@@ -1,5 +1,5 @@
 # Portfolio
-A collection of my works. 
+A repository for the portfolio site of filmmaker Brendan Kesterson.
 
 # Instructions for Brendan to Edit:
 
